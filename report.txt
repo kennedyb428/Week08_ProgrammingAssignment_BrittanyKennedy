@@ -1,0 +1,31 @@
+***************************************************************************
+Vegetarian Nutrition for Weightlifters Report
+***************************************************************************
+
+Information you provided:
+Favorite protein source: .........................tofu
+Daily calorie target: ............................1900
+Weekly calorie target: ...........................0
+Meals per day: ...................................3
+Weekly workout hours: ............................2.00
+
+Suggested weekly macros:
+Protein: .........................................994 grams
+Carbs: ...........................................1330 grams
+Fats: ............................................441 grams
+
+Suggested total daily macros:
+Protein: .........................................142 grams (568 cal)
+Carbs: ...........................................190 grams (760 cal)
+Fats: ............................................63 grams (567 cal)
+
+Per meal macro targets:
+Protein grams per meal: ..........................47
+Carbs grams per meal: ............................63
+Fats grams per meal:  ............................21
+
+***************************************************************************
+Keep fueling with tofu to hit 142 grams of protein daily!
+Remember your 2.00 hours of weightlifting per week...
+Keep lifting heavy, britt!
+
